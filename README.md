@@ -31,8 +31,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the client/server services using AIDL”.
-Developed by: Mukhilarasu K
-Registeration Number :212225040264
+Developed by: Akshaya R
+Registeration Number :212223220005
 */
 ```
 aidlclient app
